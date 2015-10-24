@@ -76,7 +76,8 @@
 - Mediator, Moderator, Facilitator (of… teaching, onboarding, helping people be heard and participate, project management), Upskilling the group
 - Proponent, Advocate, Representative, Contributor, Activist.
 - Catalyst - throwing out ideas, if this makes sense to you as it does to me, then what will manifest?
-- Librarian - salt things away and retrieve them from the archive
+- Librarian - salt things away and retrieve them from the archive.
+- Listener - an attentive, non-judgmental person who is able to tell you if what you said is really what you meant.
 
 **Potential contributions**
 - Create, Originate, Research, Aggregate, Document
